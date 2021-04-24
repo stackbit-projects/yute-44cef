@@ -4,7 +4,8 @@ sections:
   - section_id: yute
     type: section_hero
     title: Blog de Yute
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Si quieres saber todo sobre el yute sigue leyendo
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
