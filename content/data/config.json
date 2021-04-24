@@ -2,7 +2,7 @@
     "title": "Todo Yute",
     "path_prefix": "/",
     "header": {
-        "title": "Yute",
+        "title": "Todo Yute",
         "has_nav": true,
         "nav_links": [
             {
