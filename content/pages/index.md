@@ -1,7 +1,7 @@
 ---
 title: Blog
 sections:
-  - section_id: hero
+  - section_id: yute
     type: section_hero
     title: Blog de Yute
     subtitle: '### This is a super-cool hero subhead.'
