@@ -6,7 +6,6 @@ sections:
     title: Blog de Yute
     subtitle: |
       ### Si quieres saber todo sobre el yute sigue leyendo
-    image: images/avatar.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
